@@ -1,0 +1,6 @@
+{
+  "name": "엑셀 머신러닝 스튜디오 (Excel ML Studio)",
+  "description": "엑셀 및 CSV 데이터를 업로드하여 입력변수와 정답변수를 설정하고 머신러닝 모델을 학습시켜 훈련/테스트 정확도를 확인하고 새 데이터를 예측하는 인터랙티브 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
